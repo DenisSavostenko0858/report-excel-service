@@ -24,7 +24,7 @@ POST: http://localhost:5000/reports
 {
     "serviceName": "Фрукты",
     "endpoint": "http://localhost:3000/data",
-    "headers": "Яблоко груша"
+    "headers": {}
 }
 ```
 
